@@ -1,7 +1,5 @@
 #check library versions
 
-import sys
-#print('Python: {}'.format(sys.version))
 # scipy
 import scipy
 #print('scipy: {}'.format(scipy.__version__))
